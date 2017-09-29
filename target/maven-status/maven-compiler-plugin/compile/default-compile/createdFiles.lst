@@ -1,0 +1,8 @@
+com\wxy\myproject\bean\User.class
+com\wxy\myproject\common\config\RedisConfig.class
+com\wxy\myproject\Application.class
+com\wxy\myproject\controller\HelloController.class
+com\wxy\myproject\common\config\JedisConfig.class
+com\wxy\myproject\common\config\RedisObjectSerializer.class
+com\wxy\myproject\mapper\UserMapper.class
+com\wxy\myproject\common\MyCommandLineRunner.class
